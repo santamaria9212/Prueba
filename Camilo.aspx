@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" Runat="Server">
-<!DOCTYPE HTML>
+    <!DOCTYPE HTML>
 <!--
 	Dopetrope 2.5 by HTML5 UP
 	html5up.net | @n33co
@@ -372,11 +372,10 @@
 							
 								<section>
 									<header>
-										<h2>Vitae tempor lorem</h2>
+										<h2>CAMILO NAVAS ORTIZ</h2>
 									</header>
 									<ul class="social">
-										<li><a class="fa fa-facebook solo" href="#"><span>Facebook</span></a></li>
-										<li><a class="fa fa-twitter solo" href="http://twitter.com/n33co"><span>Twitter</span></a></li>
+                                        <li><a class="fa fa-facebook solo" href="#"><span>Facebooki><a class="fa fa-twitter solo" href="http://twitter.com/n33co"><span>Twitter</span></a></li>
 										<li><a class="fa fa-dribbble solo" href="http://dribbble.com/n33"><span>Dribbble</span></a></li>
 										<li><a class="fa fa-linkedin solo" href="#"><span>LinkedIn</span></a></li>
 										<li><a class="fa fa-google-plus solo" href="#"><span>Google+</span></a></li>
