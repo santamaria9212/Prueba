@@ -372,7 +372,7 @@
 							
 								<section>
 									<header>
-										<h2>CAMILO NAVAS ORTIZ</h2>
+										<h2>CAMILO NAVAS ORTIZ editando para la master</h2>
 									</header>
 									<ul class="social">
                                         <li><a class="fa fa-facebook solo" href="#"><span>Facebooki><a class="fa fa-twitter solo" href="http://twitter.com/n33co"><span>Twitter</span></a></li>
